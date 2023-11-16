@@ -2,20 +2,7 @@
 
 weekly:: [[Weekly/<% moment(fileDate).format("YYYY-[W]WW") %>|Weekly Note]]
 
-## Requirements
-
-### Requires:
-
-- [ ] [Templater](https://silentvoid13.github.io/Templater/), with folder templates enabled, and triggering templater on file creation
-- [ ] [DataView](https://blacksmithgu.github.io/obsidian-dataview/)
-
-### Useful:
-
-- [ ] [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes)
-
-### Goes with
-
-- The [weekly template](weekly-template.md)
+See the [README](README.md) and [weekly-note.md](weekly-note.md) for more info.
 
 ## Description 
 

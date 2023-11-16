@@ -1,6 +1,6 @@
 #weekly
 
-See the [daily template](daily-template.md) for explanation
+See the [README](README.md) and [daily template](daily-template.md) for more info.
 
 ## Planning
 
